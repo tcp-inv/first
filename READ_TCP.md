@@ -6,6 +6,7 @@ https://github.com/antoniopapa/laravel-ambassador
 
 
 
+
 # ไฟล์ Api:
 # ฟล์ api.php ไม่ได้ถูกวางไว้ในโฟลเดอร์ web ค่าเริ่มต้น ใน Laravel 11 คุณต้องใช้คำสั่ง php artisan install:api เพื่อนำเข้าไฟล์เส้นทาง API เพื่อใช้งาน.
  ` php artisan install:api `
